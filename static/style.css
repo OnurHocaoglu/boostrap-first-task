@@ -1,0 +1,32 @@
+.navlar{
+    font-weight: bold;
+}
+.container-sm{
+    background-color: #E9ECEF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.top-banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px;
+}
+.row-ayar{
+    display: flex;
+    justify-content: right;
+}
+
+.btn{
+    margin-top: 10px;
+    margin-left: 40%;
+    margin-bottom: 10px;
+}
+footer h1{
+    margin: 0 auto;
+    margin-left: 500px;
+    color: white;
+}
+footer{
+    margin-left: -12px;
+    margin-right: -12px;
+}
